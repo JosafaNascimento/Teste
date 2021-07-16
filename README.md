@@ -12,9 +12,9 @@ Instalar Microsoft.EntityFramework
 
 Shell Command
 
-1- Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 2.2.4
-2- Install-Package Microsoft.EntityFrameworkCore.Tools -Version 2.2.6
-3- add-migration
-4- Update-database
+(1) Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 2.2.4
+(2) Install-Package Microsoft.EntityFrameworkCore.Tools -Version 2.2.6
+(3) add-migration
+(4) Update-database
 
 11-99787-8551
